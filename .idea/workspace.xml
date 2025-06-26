@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9493cef2-9fea-4cd0-bdea-ad106d0ad3f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/naveenchandradsa/StepsToReduceNumZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/naveenchandradsa/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/naveenchandradsa/enhancedSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/naveenchandradsa/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/naveenchandradsa/numReverse.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mobH5d8gLIdnl6nL06KCJMxCcx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearchInfinite.executor": "Run",
+    "Application.BinarySearchRecursion.executor": "Run",
+    "Application.CountZeroes.executor": "Debug",
+    "Application.FactorialRecursion.executor": "Debug",
+    "Application.FactorialSumOfDigits.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FibonacciRecursion.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.Methods.executor": "Run",
+    "Application.MultidimensionArrayList.executor": "Run",
+    "Application.PeakInMountainArray (1).executor": "Run",
+    "Application.PeakInMountainArray.executor": "Run",
+    "Application.Permutations.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.RecursionArraySortedCheck.executor": "Run",
+    "Application.RecursionBubbleSort.executor": "Run",
+    "Application.RecursionLinearSearch.executor": "Debug",
+    "Application.RecursionReverseDigit.executor": "Debug",
+    "Application.RecursionRotatedBinarySearch.executor": "Run",
+    "Application.RecursionSelectionSort.executor": "Run",
+    "Application.RecursionSumOfDigits.executor": "Run",
+    "Application.RemoveEntireString.executor": "Run",
+    "Application.RemoveSpecifiedChar.executor": "Run",
+    "Application.SkipStringCondition.executor": "Run",
+    "Application.StepsToReduceNumZero.executor": "Run",
+    "Application.StringPalindrome.executor": "Run",
+    "Application.SubSequence.executor": "Run",
+    "Application.SubSequenceASCII.executor": "Run",
+    "Application.SubSetItr.executor": "Debug",
+    "Application.arrayMax.executor": "Run",
+    "Application.binarySearch.executor": "Run",
+    "Application.bubbleSort.executor": "Run",
+    "Application.calculator.executor": "Run",
+    "Application.countDigits.executor": "Run",
+    "Application.enhancedSwitch.executor": "Run",
+    "Application.insertionSort.executor": "Run",
+    "Application.methodExample.executor": "Run",
+    "Application.numReverse.executor": "Run",
+    "Application.orderAgnosticBS.executor": "Run",
+    "Application.pattern1.executor": "Debug",
+    "Application.searchIn2DArray.executor": "Run",
+    "Application.selectionSort.executor": "Run",
+    "Application.shadowing.executor": "Run",
+    "Application.vargsExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Documents/Arunchandra/Arun Programs/Java Programs/Practice",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Permutations">
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naveenchandradsa.SubSequenceAndSubSet.Permutations" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naveenchandradsa.SubSequenceAndSubSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkipStringCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naveenchandradsa.SubSequenceAndSubSet.SkipStringCondition" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naveenchandradsa.SubSequenceAndSubSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naveenchandradsa.SubSequenceAndSubSet.SubSequence" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naveenchandradsa.SubSequenceAndSubSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSequenceASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naveenchandradsa.SubSequenceAndSubSet.SubSequenceASCII" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naveenchandradsa.SubSequenceAndSubSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSetItr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.naveenchandradsa.SubSequenceAndSubSet.SubSetItr" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naveenchandradsa.SubSequenceAndSubSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Permutations" />
+        <item itemvalue="Application.SubSetItr" />
+        <item itemvalue="Application.SubSequenceASCII" />
+        <item itemvalue="Application.SubSequence" />
+        <item itemvalue="Application.SkipStringCondition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9493cef2-9fea-4cd0-bdea-ad106d0ad3f1" name="Changes" comment="" />
+      <created>1727745785096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727745785096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/naveenchandradsa/RecursionFactorial.java</url>
+          <line>8</line>
+          <properties class="com.naveenchandradsa.RecursionFactorial" method="fact">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/naveenchandradsa/RecursionReverseDigit.java</url>
+          <line>9</line>
+          <properties class="com.naveenchandradsa.RecursionReverseDigit" method="reverseNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/naveenchandradsa/CountZeroes.java</url>
+          <line>8</line>
+          <properties class="com.naveenchandradsa.CountZeroes" method="countZeroes">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/naveenchandradsa/patterns/pattern1.java</url>
+          <line>22</line>
+          <properties class="com.naveenchandradsa.patterns.pattern1" method="pattern1reverse">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/naveenchandradsa/RecursionSelectionSort.java</url>
+          <line>39</line>
+          <properties class="com.naveenchandradsa.RecursionSelectionSort" method="selectionSort2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/naveenchandradsa/SubSequenceAndSubSet/SubSetItr.java</url>
+          <line>29</line>
+          <properties class="com.naveenchandradsa.SubSequenceAndSubSet.SubSetItr" method="subSetItrDuplicate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
